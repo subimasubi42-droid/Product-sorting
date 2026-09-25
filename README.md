@@ -268,3 +268,4 @@ PRODUCT SORTING
 Automatic Product Sorting System
 TEAM CORECREW | EEE 
 
+![Project image](image.jpg) 
